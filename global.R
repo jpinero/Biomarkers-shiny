@@ -10,7 +10,7 @@ pool <- dbPool(
   drv = MariaDB(),
   host = "localhost",
   username = "janet",
-  password = "virgo123",
+  password = "",
   dbname = "biomarkers_2022",
   port = 3306
 )
